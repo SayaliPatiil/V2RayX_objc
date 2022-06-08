@@ -21,7 +21,7 @@ typedef enum ProxyMode : NSInteger{
 } ProxyMode;
 
 
-//int runCommandLine(NSString* launchPath, NSArray* arguments);
+
 
 @interface AppDelegate : NSObject <NSApplicationDelegate, NSUserNotificationCenterDelegate> {
     BOOL proxyState;
