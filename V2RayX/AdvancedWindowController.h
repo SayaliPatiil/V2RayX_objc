@@ -6,7 +6,10 @@
 
 #import <Cocoa/Cocoa.h>
 #import "ConfigWindowController.h"
-
+#import <Cocoa/Cocoa.h>
+#import "ConfigWindowController.h"
+#import <Cocoa/Cocoa.h>
+#import "ConfigWindowController.h"
 NS_ASSUME_NONNULL_BEGIN
 
 @interface AdvancedWindowController : NSWindowController<NSTableViewDelegate, NSTableViewDataSource, NSTextViewDelegate>
